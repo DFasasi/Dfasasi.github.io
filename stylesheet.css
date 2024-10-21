@@ -34,13 +34,14 @@ nav a:hover {
 
 #about {
     background-color: #e0f7fa;
-    text-align: center;
 }
 
 .profile-img {
     width: 150px;
     border-radius: 50%;
     margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .job {
